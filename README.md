@@ -12,11 +12,11 @@ This Website Is Serving Images for [2HAAS](https://www.2haas.com)...
 
 <h3 align="center">A team from Bangladesh 🇧🇩 with the sprite of simple coding for Humans...</h3>
 
-- 🔭 We're currently publishing arts on [2HAAS](https://2haas.ml)...
+- 🔭 We're currently publishing arts on [2HAAS](https://2haas.com)...
 
-- 📫 How to reach me: [2HAAS](m.me/2haas)
+- 📫 How to reach me: [2HAAS](https://m.me/2haas)
 
-- ⚡ Fun fact: I love to [Make Drawings, Design Websites](https://2haas.ml)🤓
+- ⚡ Fun fact: I love to [Make Drawings, Design Websites](https://2haas.com) 🤓
 
 <!--
 
