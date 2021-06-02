@@ -2,13 +2,13 @@ This Website Is Serving Images for [2HAAS](https://www.2haas.com)...
 
 <h1 align="center">Hi 👋, We're 2HAAS</h1>
 
-<p align="center">
+<center>
 
 <a href="https://facebook.com/2haas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="2HAAS facebook page" height="20" width="20" /></a>
 
 <a href="https://instagram.com/2haas.ml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="2HAAS instagram account" height="20" width="20" /></a>
 
-</p>
+</center>
 
 <h3 align="center">A team from Bangladesh 🇧🇩 with the sprite of simple coding for Humans...</h3>
 
